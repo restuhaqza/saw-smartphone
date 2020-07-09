@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "saw-amikom",
+    "password": "saw-amikom",
+    "database": "saw-amikom",
+    "host": "54.254.60.254",
+    "port": "3306",
+    "dialect": "mysql",
+    "logging": "console.log"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

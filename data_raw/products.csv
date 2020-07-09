@@ -1,0 +1,17 @@
+﻿id;brand;model;detail;memory;storage;camera;screen;price;stock;createdAt;updatedAt
+1;apple;apple iphone 7;lorem ipsum;3;256;12;5,5;5999000;50;;
+2;apple;apple iphone 11 pro max;lorem ipsum;4;64;48;6,5;21799000;10;;
+3;apple;apple iphone XS;lorem ipsum;4;256;31;5,6;16999000;50;;
+4;asus;asus zenfone 6;lorem ipsum;6;128;48;6,4;6999000;150;;
+5;LG;LG V30 Plus;lorem ipsum;4;128;16;6;5850000;200;;
+6;oppo;oppo A9 2020;lorem ipsum;8;128;48;6,5;3599000;150;;
+7;oppo;oppo A91;lorem ipsum;8;128;48;6,4;3599000;50;;
+8;samsung;samsung galaxy A30;lorem ipsum;4;64;25;6,4;3099000;100;;
+9;samsung;samsung galaxy A50;lorem ipsum;4;64;48;6,4;3149000;150;;
+10;samsung;samsung galaxy s20;lorem ipsum;8;128;48;6,7;11999000;200;;
+11;vivo;vivo y17;lorem ipsum;4;128;20;6,35;2599000;50;;
+12;vivo;vivo y30;lorem ipsum;4;128;13;6,47;2799000;150;;
+13;xiaomi;xiaomi redmi note 8 pro;lorem ipsum;6;128;48;6,3;3399000;100;;
+14;xiaomi;xiaomi mi 9 lite;lorem ipsum;6;64;32;6,39;3999000;50;;
+15;xiaomi;xiaomi redmi 8A;lorem ipsum;2;32;12;6,22;1499000;150;;
+;;;;;;;;;;;
